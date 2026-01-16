@@ -83,7 +83,7 @@ Skills in **C, C++, Java, HTML, CSS, and JavaScript** are being developed, while
   <tr row span="8">
     <td>
     <td>
-    Expwnae Tracker
+    Expense Tracker
     </td>
   </tr>
 
