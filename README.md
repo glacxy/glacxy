@@ -73,19 +73,33 @@ Skills in **C, C++, Java, HTML, CSS, and JavaScript** are being developed, while
 
 ## Featured Projects  
 
-<table align="center" width="100%">
+<table>
   <tr>
     <th>Project</th>
     <th>Description</th>
-  
   </tr>
 
-  <tr row span="8">
-    <td>
-    <td>
-    Expense Tracker
-    </td>
+  <tr>
+    <td>Expense Tracker</td>
+    <td>Tracks daily income and expenses.</td>
   </tr>
+
+  <tr>
+    <td>ToDo Application</td>
+    <td>Java Swing and Maven based task management app.</td>
+  </tr>
+
+  <tr>
+    <td>Maternal Mind NLP Chatbot</td>
+    <td>Chatbot to support pregnant women using NLP.</td>
+  </tr>
+
+  <tr>
+    <td>Personal Portfolio</td>
+    <td>Portfolio website using HTML, CSS (Bootstrap), and JavaScript.</td>
+  </tr>
+</table>
+
 
   
   
