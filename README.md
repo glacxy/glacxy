@@ -109,7 +109,7 @@ Skills in **C, C++, Java, HTML, CSS, and JavaScript** are being developed, while
 
 ##  DSA & Problem Solving Achievements
 
-###  **1207+ Problems Solved Across Platforms**
+###  **1800+ Problems Solved Across Platforms**
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
