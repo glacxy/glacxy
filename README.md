@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000080&text=GLACXY%20N&fontColor=FFFFFF&animation=scaleIn&desc=DSA%20ENTHUSIAST%20|%20FRONTEND%20DEVELOPER&textBg=false&descAlignY=65&strokeWidth=1" alt="Header" />
+<p align="center">
+  <img src="GLACXY N.gif" width="900"/>
+</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=DSA+learner+with+a+love+for+logic.;Developer+fueled+by+curiosity;Progress+powered+by+consistency;Learn%2CCode%2CRepeat..." alt="Typing SVG" />
 
