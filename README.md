@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="GLACXY N.gif" width="900"/>
+  <img src="GLACXY N (2).gif" width="900"/>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=DSA+learner+with+a+love+for+logic.;Developer+fueled+by+curiosity;Progress+powered+by+consistency;Learn%2CCode%2CRepeat..." alt="Typing SVG" />
