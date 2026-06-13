@@ -92,7 +92,7 @@ Skills in **C, C++, Java, HTML, CSS, and JavaScript** are being developed, while
   </tr>
 
   <tr>
-    <td>Maternal Mind NLP Chatbot</td>
+    <td>CodeFusion AI</td>
     <td>Chatbot to support pregnant women using NLP.</td>
   </tr>
 
