@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 <p align="center">
   <img src="GLACXY N (2).gif" width="900"/>
@@ -10,9 +10,9 @@ div align="center">
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sabariyuhendh&color=8B5CF6&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/sabariyuhendh?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/sabariyuhendh?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=glacxy&color=8B5CF6&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/glacxy?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![GitHub User's stars](https://img.shields.io/github/stars/glacxy?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
 
 </div>
 
@@ -186,4 +186,4 @@ Skills in **C, C++, Java, HTML, CSS, and JavaScript** are being developed, while
 
 **⭐ From [glacxy](https://github.com/glacxy)**
 
-</div> seri update panu 
+</div>itha fix panu streak lam olunga katamatikuthu
