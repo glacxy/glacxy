@@ -116,7 +116,7 @@ Skills in **C, C++, Java, HTML, CSS, and JavaScript** are being developed, while
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
 | **LeetCode** | 500+ | Knight Rank |
-| **CodeChef** | 1866| 1337 |
+| **CodeChef** | 1866| 1607 |
 | **CodeForces** | 6| 400 |
 | **GeeksForGeeks** | 65+ | - |
 
