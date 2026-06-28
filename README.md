@@ -87,7 +87,7 @@ Skills in **C, C++, Java, HTML, CSS, and JavaScript** are being developed, while
   </tr>
 
   <tr>
-    <td>ToDo Application</td>
+    <td>Todo Application</td>
     <td>Java Swing and Maven based task management app.</td>
   </tr>
 
