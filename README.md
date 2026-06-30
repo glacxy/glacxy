@@ -117,7 +117,7 @@ Skills in **C, C++, Java, HTML, CSS, and JavaScript** are being developed, while
 |----------|----------------|------------|
 | **LeetCode** | 500+ | Knight Rank |
 | **CodeChef** | 1866| 1607 |
-| **CodeForces** | 6| 400 |
+| **CodeForces** | 10| 400 |
 | **GeeksForGeeks** | 65+ | - |
 
 ##  GitHub Analytics
